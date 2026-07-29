@@ -1,19 +1,32 @@
 # Hospitality-Data-Analysis
-Exploratory Data Analysis of the Hospitality dataset using Python, Pandas, NumPy, Matplotlib and Seaborn.
 
-Project Overview
+## Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on the Hospitality dataset using Python. The objective is to analyze booking patterns, occupancy trends, revenue performance, room categories, and customer ratings to generate meaningful business insights.
 
-Problem Statement
+## Problem Statement
 
 The hospitality industry generates a large volume of booking and revenue data. Through this project, I analyzed the dataset to identify booking trends, capacity utilization, revenue distribution, and data quality issues that could support better business decisions.
 
-Dataset
+## Tools & Libraries Used
 
-The dataset contains information related to hotel properties, room categories, bookings, capacity, revenue, and customer ratings.
+- **Python** Core programming language
+- **Pandas** Data cleaning, transformation, and analysis
+- **Matplotlib** Data visualization
+- **Jupyter Notebook** Interactive analysis and documentation
 
-Tools and Libraries Used Python Pandas NumPy Matplotlib Seaborn Jupyter Notebook
+## Key Insights
+
+RT4 (Presidential Suite) rooms generally have higher revenue. No significant outliers were found in the revenue_realized column. A large number of customer ratings were missing, so I retained those records to avoid excessive data loss. Some booking records exceeded the available capacity and were removed during data cleaning.
+
+## Visualization
+
+## Distribution of Hotels by City
+
+![Distribution of Hotels by City](images/hotels_by_city.png)
+
+
+
 
 Data Cleaning Performed
 
@@ -25,11 +38,6 @@ The analysis includes:
 
 Total bookings by property. Occupancy analysis. Revenue analysis. Room category analysis. Booking vs capacity comparison. Customer rating analysis. Outlier detection.
 
-Key Insights
-
-RT4 (Presidential Suite) rooms generally have higher revenue. No significant outliers were found in the revenue_realized column. A large number of customer ratings were missing, so I retained those records to avoid excessive data loss. Some booking records exceeded the available capacity and were removed during data cleaning.
-
-Files in this Repository hospitality_eda.ipynb – Jupyter notebook containing the complete EDA. README.md – Project documentation.
 
 Conclusion
 
