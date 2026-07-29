@@ -29,20 +29,23 @@ RT4 (Presidential Suite) rooms generally have higher revenue. No significant out
 
 ![Bookings by Platform](Images/bookings_by_platform.png)
 
+### Average Occupancy Rate by City (June 2022)
+![Average Occupancy Rate by City (June 2022)](Images/average_occupancy_rate_by_city.png)
+
+### Revenue Realized by City
+![Revenue Realized by City](Images/revenue_realized_by_city.png)
+
+### Revenue Contribution by Booking Platform
+![Revenue Contribution by Booking Platform](Images/revenue_realized_by_booking_paltform.png)
+
+### Month-Wise Revenue Realized
+![Month-Wise Revenue Realized](Images/month_wise_revenue_realized.png)
 
 
-
-Data Cleaning Performed
+## Data Cleaning Performed
 
 Handled missing values in the capacity column using the median value. Identified and removed records where successful_bookings exceeded capacity. Checked for outliers in the revenue_realized column. Converted and standardized date columns. Verified data consistency across room categories.
 
-Exploratory Data Analysis
-
-The analysis includes:
-
-Total bookings by property. Occupancy analysis. Revenue analysis. Room category analysis. Booking vs capacity comparison. Customer rating analysis. Outlier detection.
-
-
-Conclusion
+## Conclusion
 
 This project demonstrates my ability to perform data cleaning, exploratory data analysis, visualization, and insight generation using Python and Pandas. It is my first end-to-end EDA project in the hospitality domain and an important step in building my data analytics portfolio.
