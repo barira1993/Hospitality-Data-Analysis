@@ -27,7 +27,7 @@ RT4 (Presidential Suite) rooms generally have higher revenue. No significant out
 
 ### Bookings by Platform
 
-![Bookings by Platform](images/bookings_by_platform.png)
+![Bookings by Platform](Images/bookings_by_platform.png)
 
 
 
