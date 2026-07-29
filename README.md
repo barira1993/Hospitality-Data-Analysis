@@ -21,9 +21,13 @@ RT4 (Presidential Suite) rooms generally have higher revenue. No significant out
 
 ## Visualization
 
-## Distribution of Hotels by City
+### Distribution of Hotels by City
 
 ![Distribution of Hotels by City](images/hotels_by_city.png)
+
+### Bookings by Platform
+
+![Bookings by Platform](images/bookings_by_platform.png)
 
 
 
